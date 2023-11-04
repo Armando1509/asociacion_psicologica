@@ -1,0 +1,21 @@
+.header{
+  width: 1200px;
+border: none;
+overflow: hidden;
+align-items: center;
+}
+.logo{
+  width: 200px;
+float:left;
+border: none ;
+}
+.titulo{
+  border: none;
+padding-top:1% !important;
+padding-left: 20% !important;
+font-size: 500%;
+}
+.eslogan{
+  font-size: 80px;
+  text-align: center;
+}
