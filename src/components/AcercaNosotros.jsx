@@ -8,7 +8,7 @@ import ercika from "../img/Ericka.jpg";
 const AcercaNosotros = () => {
   return (
     <>
-      <h2 style={{ textAlign: "center" }}>Acerca de nosotros</h2>
+      <h2 style={{ textAlign: "center" }}>Acerca de nosotros los Doctores</h2>
       <Row gutter={16}>
         <Col span={9}>
           <Card
